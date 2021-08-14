@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ethernallll
-- 👀 I’m interested in Java/C#, Minecraft plugins & Gamedevelopment
+- 👀 I’m interested in Java/C#, Minecraft plugins & Game development
 - 🌱 I’m currently learning Java/C# & Unity 
 
 <!---
